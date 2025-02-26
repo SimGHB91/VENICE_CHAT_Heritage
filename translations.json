@@ -1,0 +1,14 @@
+{
+    "it": {
+        "titolo": "Benvenuto nella mia pagina",
+        "descrizione": "Questa è una descrizione della mia pagina."
+    },
+    "en": {
+        "titolo": "Welcome to my page",
+        "descrizione": "This is a description of my page."
+    },
+    "fr": {
+        "titolo": "Bienvenue sur ma page",
+        "descrizione": "Ceci est une description de ma page."
+    }
+}
