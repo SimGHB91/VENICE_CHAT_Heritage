@@ -1,22 +1,14 @@
 {
     "it": {
-        "titolo": "Da San Polo a Santa Croce",
-        "descrizione": "Consulta la mappa interattiva e scopri in anteprima i dettagli di ogni singola tappa di questo percorso!"
+        "titolo": "Benvenuto nella mia pagina",
+        "descrizione": "Questa è una descrizione della mia pagina."
     },
     "en": {
-        "titolo": "From San Polo to Santa Croce",
-        "descrizione": "Check the interactive map and discover in advance the details of each individual stop on this route!"
-    },
-    "de": {
-        "titolo": "Von San Polo nach Santa Croce",
-        "descrizione": "Sieh dir die interaktive Karte an und entdecke vorab die Details zu jeder einzelnen Station dieser Route!"
-    },
-    "es": {
-        "titolo": "De San Polo a Santa Croce",
-        "descrizione": "¡Consulta el mapa interactivo y descubre con antelación los detalles de cada parada individual de esta ruta!"
+        "titolo": "Welcome to my page",
+        "descrizione": "This is a description of my page."
     },
     "fr": {
-        "titolo": "De San Polo à Santa Croce",
-        "descrizione": "Consultez la carte interactive et découvrez à l'avance les détails de chaque étape de ce parcours !"
+        "titolo": "Bienvenue sur ma page",
+        "descrizione": "Ceci est une description de ma page."
     }
 }
