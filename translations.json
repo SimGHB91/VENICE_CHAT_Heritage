@@ -4,19 +4,19 @@
         "sottotitolo1": "Ti diamo il bevenuto nel sestiere più esteso di Venezia, ed anche il più popolato."
     },
     "en": {
-        "titolo": "Sestiere Cannaregio",
-        "descrizione": "Check the interactive map and discover in advance the details of each individual stop on this route!"
+        "titolo": "Cannaregio District",
+        "sottotitolo1": "We welcome you to the largest district of Venice, and also the most populated."
     },
     "de": {
         "titolo": "Sestiere Cannaregio",
-        "descrizione": "Sieh dir die interaktive Karte an und entdecke vorab die Details zu jeder einzelnen Station dieser Route!"
+        "sottotitolo1": "Wir heißen Sie im größten und bevölkerungsreichsten Stadtteil Venedigs willkommen."
     },
     "es": {
-        "titolo": "Sestiere Cannaregio",
-        "descrizione": "¡Consulta el mapa interactivo y descubre con antelación los detalles de cada parada individual de esta ruta!"
+        "titolo": "Distrito de Cannaregio",
+        "sottotitolo1": "Te damos la bienvenida al distrito más extenso de Venecia, y también el más poblado."
     },
     "fr": {
         "titolo": "Sestiere Cannaregio",
-        "descrizione": "Consultez la carte interactive et découvrez à l'avance les détails de chaque étape de ce parcours !"
+        "sottotitolo1": "Nous vous souhaitons la bienvenue dans le sestier le plus étendu de Venise, et aussi le plus peuplé."
     }
 }
